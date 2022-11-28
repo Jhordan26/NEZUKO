@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;/*Resetear los rems => 62.5% equivalga a 10 px  de 16px, del tamaño original*/
+
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+
+}
+
+body{
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
